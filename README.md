@@ -1,5 +1,5 @@
 # classification_exotic_fruits
-Progetto modulo 4 del master AI Engineering di Profession AI
+Progetto modulo: Machine Learning modelli e algoritmi, del master AI Engineering di Profession AI
 
 ## Classificazione di frutti esotici
 TropicTaste Inc., leader nella distribuzione di frutti esotici, intende migliorare l'efficienza e l'accuratezza nel processo di classificazione dei frutti. L'obiettivo è sviluppare un modello di machine learning in grado di predire il tipo di frutto basandosi su caratteristiche numeriche.
